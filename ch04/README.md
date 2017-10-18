@@ -8,7 +8,7 @@
 特定のアプリケーションに対して，最良のデータ表現を模索することを`特徴量エンジニアリング`という
 
 ### [カテゴリ変数](https://github.com/kajyuuen/IntroductionToMachineLearningWithPython/blob/master/ch04/categorical_variables.ipynb)
-    
+
 - ワンホットエンコーディング(ダミー変数)
     - ダミー変数とは，カテゴリ変数を一つ以上の0と1の値を持つ新しい特徴量で置き換えるもの． 値0と1を使えば，線形ニクラス分類の式が意味を持つので，sklearnの殆どのモデルを利用出来る．
 

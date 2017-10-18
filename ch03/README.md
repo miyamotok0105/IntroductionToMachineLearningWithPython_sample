@@ -1,6 +1,6 @@
 # 教師なし学習
 
-### 前処理とスケール変換
+### [前処理とスケール変換](https://github.com/kajyuuen/IntroductionToMachineLearningWithPython/blob/master/ch03/applying_data_transformations.ipynb)
 
 - StanderdScaler
     - 特徴: 個々の特徴量を平均0分散が1になるように変換する
@@ -13,7 +13,7 @@
     - 特徴: 特徴量ベクトルがユークリッド長1になるようにする -> ベクトルの長さではなく角度が問題になる場合に用いられる
     
     
-### 次元削減
+### [次元削減](https://github.com/kajyuuen/IntroductionToMachineLearningWithPython/blob/master/ch03/dimensionality_reduction.ipynb)
 
 教師無し学習を用いたデータ変換には，可視化，データの圧縮，表現の発見が挙げられる．
 それらを目的として最も用いられるアルゴリズム
@@ -27,7 +27,7 @@
     - 二次元散布図を用いたデータの可視化によく用いられるアルゴリズム
     - 殆どの場合3以上の新しい特徴量を生成するように利用することはない
     
-### クラスタリング
+### [クラスタリング](https://github.com/kajyuuen/IntroductionToMachineLearningWithPython/blob/master/ch03/clustering.ipynb)
 
 #### アルゴリズム
 

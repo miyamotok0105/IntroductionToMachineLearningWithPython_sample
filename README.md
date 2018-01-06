@@ -7,3 +7,21 @@
 - [第五章 モデルの評価と改良](https://github.com/kajyuuen/IntroductionToMachineLearningWithPython/tree/master/ch05)
 - [第六章 アルゴリズムチェーンとパイプライン](https://github.com/kajyuuen/IntroductionToMachineLearningWithPython/tree/master/ch06)
 - [第七章 テキストデータの処理](https://github.com/kajyuuen/IntroductionToMachineLearningWithPython/tree/master/ch07)
+
+- 環境
+
+python3.5    
+
+pip install numpy
+pip install scipy
+pip install pandas
+pip install matplotlib
+pip install seaborn
+pip install jupyter
+pip install mglearn
+
+
+- tex
+
+https://www.codecogs.com/latex/eqneditor.php    
+

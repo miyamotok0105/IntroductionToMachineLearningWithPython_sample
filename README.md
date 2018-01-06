@@ -12,13 +12,13 @@
 
 python3.5    
 
-pip install numpy
-pip install scipy
-pip install pandas
-pip install matplotlib
-pip install seaborn
-pip install jupyter
-pip install mglearn
+    pip install numpy
+    pip install scipy
+    pip install pandas
+    pip install matplotlib
+    pip install seaborn
+    pip install jupyter
+    pip install mglearn
 
 
 - tex

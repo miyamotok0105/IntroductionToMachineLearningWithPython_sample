@@ -3,7 +3,6 @@
 ## アルゴリズム
 
 - [最近傍法](https://github.com/kajyuuen/IntroductionToMachineLearningWithPython/blob/master/ch02/kmeans.ipynb)
-
   - [最強の当て馬]
   - 利点    
     モデルが単純。    
@@ -13,7 +12,6 @@
     データ前処理が重要。    
     数百以上の特徴量をもつデータではうまく機能しない。    
     疎なデータは特にうまく機能しない。    
-
   - パラメータ    
     近傍点の数とデータポイント間の距離測度。    
     近傍点の数は３〜５で十分な場合が多いが調整する必要がある。    

@@ -19,19 +19,18 @@
 
   
 - [線形モデル](https://github.com/kajyuuen/IntroductionToMachineLearningWithPython/blob/master/ch02/linear_model.ipynb)
-
-- [最初に試すべきアルゴリズム]
-- 利点
-線形モデルは訓練，予測ともに高速．サンプル数が10万~100万点のデータに対しては，LinearRegression,Ridgeにsolver='sag'オプションを用いると高速になる場合がある．    
-予測手法が理解しやすい    
-特徴量の数がサンプル数の個数よりも多いときに性能を発揮する    
-- 欠点
-係数の意味を理解するのが難しい    
-- パラメータ
-正則化パラメータ    
-線形モデル: alpha, LinearSVC, LinearRegression: C    
-alphaが大きいとき, Cが小さい場合は単純なモデルに対応する．    
-両方とも対数スケールで値を変更する    
+  - [最初に試すべきアルゴリズム]
+  - 利点
+    線形モデルは訓練，予測ともに高速．サンプル数が10万~100万点のデータに対しては，LinearRegression,Ridgeにsolver='sag'オプションを用いると高速になる場合がある．    
+    予測手法が理解しやすい    
+    特徴量の数がサンプル数の個数よりも多いときに性能を発揮する    
+  - 欠点
+    係数の意味を理解するのが難しい    
+  - パラメータ
+    正則化パラメータ    
+    線形モデル: alpha, LinearSVC, LinearRegression: C    
+    alphaが大きいとき, Cが小さい場合は単純なモデルに対応する．    
+    両方とも対数スケールで値を変更する    
 
 - [ナイーブベイズ](https://github.com/kajyuuen/IntroductionToMachineLearningWithPython/blob/master/ch02/NaiveBayes.ipynb)
   - クラス分類にしか使えない．線形モデルより高速．線形モデルより精度が落ちる．

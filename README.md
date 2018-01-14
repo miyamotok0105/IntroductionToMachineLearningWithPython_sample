@@ -19,6 +19,7 @@ python3.5
     pip install seaborn
     pip install jupyter
     pip install mglearn
+    pip install graphviz
 
 
 - tex
